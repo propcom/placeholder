@@ -1,48 +1,31 @@
 {
-
     "name": "Placeholder Fallback",
     "authors": [
-   
         "Anthony Armstrong"
-
     ],
-
-    "description": "A Placeholder Fallback for Legacy Browsers - Requires jQuery and Modernizr",
+    "description": "A Placeholder Fallback for Legacy Browsers. Requires jQuery and Modernizr",
     "main": "placeholder.js",
     "repository": {
-
         "type" : "git",
         "url" : "https://github.com/propcom/fe-placeholder"
-
     },
-
     "keywords": [
-
         "Placeholder",
         "Legacy",
         "jQuery",
-	"inputs",
+	    "inputs",
         "Propeller",
         "propcomm",
         "propeller",
         "propcom"
-
     ],
-
     "license": "Public",
     "homepage": "https://github.com/propcom/fe-placeholder.git",
-
     "ignore" : [
-
-        "README.md",
-
+        "README.md"
     ],
-
     "install" : {
-
         "placeholder.js" : "httpdocs/assets/js/objects",
         "placeholder-init.js" : "httpdocs/assets/js/modules"
-
     }
-
 }
