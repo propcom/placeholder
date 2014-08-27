@@ -7,8 +7,7 @@
 
     ],
 
-    "description": "A Placeholder Fallback for Legacy Browsers - Requires jQuery 
-and Modernizr",
+    "description": "A Placeholder Fallback for Legacy Browsers - Requires jQuery and Modernizr",
     "main": "placeholder.js",
     "repository": {
 
