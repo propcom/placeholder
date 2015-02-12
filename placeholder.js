@@ -4,7 +4,7 @@
 		last modified: 2013-02-13
 */
 
-(function($){
+;(function($){
 
 	$.fn.placeholder = function(method) {
 
